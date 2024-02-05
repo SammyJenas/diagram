@@ -1,5 +1,5 @@
 # diagram
 
-*,+ bullet point
+* bullet point
 
-*+ bullet point
+*  bullet point
