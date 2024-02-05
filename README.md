@@ -13,4 +13,4 @@ Terrestrial Assemblages is an arts based ecological working group initiated by S
 * Enable the diagram to display properly on different sized devices and browser windows.
 * The current txt files were generated using ChatGPT and are intended as placeholders. Further consideration is needed, e.g. should these texts be written by an LLM? Should further prompting and proofing be done?
 * Improve the modularity of the code.
-* Complete the diagram.
+* Complete the diagram, i.e. add all the remaining nodes and connecting lines.
