@@ -1,6 +1,8 @@
 # Diagram
 
-This is a prototype diagram for a Terrestrial Assemblages project.
+This is a prototype of an online interactive diagram for a Terrestrial Assemblages project.
+
+The diagram is viewable as a webpage here: https://sammyjenas.github.io/diagram/
 
 ## Terrestrial Assemblages
 Terrestrial Assemblages is an arts based ecological working group initiated by Simon Ingram that seeks to create awareness of and sensitivity to natural systems in contemporary art audiences.
